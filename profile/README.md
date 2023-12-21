@@ -19,3 +19,4 @@
 # Flow Architecture Application 
 
 # User Interface
+![UI](https://github.com/LearnFlow-Bangkit-Capstone/.github/assets/87859953/9822c3a7-33d5-4e0f-aede-f0dd4de4e7d6)
