@@ -2,7 +2,7 @@
 ![Gambar WhatsApp 2023-12-19 pukul 20 04 00_3ac0be54](https://github.com/LearnFlow-Bangkit-Capstone/.github/assets/89674992/82f706be-ab14-4401-8489-2a7328fdb805)
 
 # Repository
-
+https://github.com/LearnFlow-Bangkit-Capstone/LearnFlow-Machine-Learning
 # Team Members
 |            Member           | Student ID |        Path        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
