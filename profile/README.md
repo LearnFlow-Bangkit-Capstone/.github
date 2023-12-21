@@ -3,6 +3,8 @@
 
 # Repository
 - [Machine Learning Repository](https://github.com/LearnFlow-Bangkit-Capstone/LearnFlow-Machine-Learning)
+- [Mobile Development Repository](https://github.com/LearnFlow-Bangkit-Capstone/LearnFlow-Mobile-Development)
+- [Cloud Computing Repository](https://github.com/LearnFlow-Bangkit-Capstone/LearnFlow-Cloud-Computing)
 # Team Members
 |            Member           | Student ID |        Path        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
